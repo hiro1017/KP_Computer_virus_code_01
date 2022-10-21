@@ -2,6 +2,6 @@
 using namespace std;
 int main(void){
     // Your code here!
-    std::cout << "Hello, World!" << std::endl;
+    printf("Helo world);
     return 0;
 }
